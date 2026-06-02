@@ -29,22 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Viktoriia's GitHub stats](https://github-readme-stats.vercel.app/api?username=viktoriiastepp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriiastepp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=viktoriiastepp&theme=tokyonight&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=viktoriiastepp&theme=algolia&no-frame=true&no-bg=true&row=1&column=6)
-
-</div>
-
----
-
 ## 🐍 Contribution Graph
 
 <div align="center">
@@ -63,7 +47,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://www.linkedin.com/in/viktoriia-stepanenko-96b1912a1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktoriia-stepanenko-96b1912a1/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stepanenkoviktoriy@gmail.com)
 
 </div>
